@@ -1,10 +1,9 @@
-# Shell
 
-### Implemented a user-defined shell program that can create and manage new processes in C language. Execution of commands in foreground/background, commands like cd,ls,echo, file redirection commands and some user defined commands like pinfo are implemented. Discover and history commands are also implemented.
 
 # MY-Shell
 
-A Linux shell was implemented in C.
+### Implemented a user-defined shell program that can create and manage new processes in C language. Execution of commands in foreground/background, commands like cd,ls,echo, file redirection commands and some user defined commands like pinfo are implemented. Discover and history commands are also implemented.
+
 
 
 ## Running
