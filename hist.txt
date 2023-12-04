@@ -1,0 +1,20 @@
+discover ..
+discover ~
+discover -d
+echo& hi deepak
+echo hi deepak &
+echo & hi
+jobs
+fg
+bg
+fg 4184
+jobs
+ls
+cd -
+ls
+cd PROJECTS
+cd OSN_PRO
+cd
+
+
+quit

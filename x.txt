@@ -1,0 +1,6 @@
+ hi i am deepak:wq
+:wq
+:q
+:q
+:q
+
